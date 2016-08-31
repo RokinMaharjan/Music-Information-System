@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P2RSMusicStreamer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_now_playing">NowPlaying</string>
+    <string name="title_activity_login">Login</string>
+</resources>

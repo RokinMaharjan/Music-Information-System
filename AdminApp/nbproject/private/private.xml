@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/media/rokin/Music/AdminApp/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/dao/impl/TrackDAOImpl.java</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/controller/SignUpController.java</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/controller/NewsController.java</file>
+            <file>file:/media/rokin/Music/AdminApp/web/WEB-INF/jsp/viewUsers.jsp</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/controller/TrackController.java</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/dao/impl/UserDAOImpl.java</file>
+            <file>file:/media/rokin/Music/AdminApp/web/WEB-INF/jsp/viewTracks.jsp</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/dao/AudioDAO.java</file>
+            <file>file:/media/rokin/Music/AdminApp/web/WEB-INF/jsp/homePage.jsp</file>
+            <file>file:/media/rokin/Music/AdminApp/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/controller/AdminController.java</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/recommender/ClusterAlgorithm.java</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/controller/AudioController.java</file>
+            <file>file:/media/rokin/Music/AdminApp/src/java/com/P2RS/MIS/dao/TrackDAO.java</file>
+            <file>file:/media/rokin/Music/AdminApp/web/WEB-INF/jsp/viewMIS.jsp</file>
+        </group>
+    </open-files>
+</project-private>
